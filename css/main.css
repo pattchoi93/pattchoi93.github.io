@@ -1,0 +1,18 @@
+#public-wrapper .sticky-nav h5 {
+  margin: 0;
+  font-size: 12px !important;
+  text-transform: capitalize !important;
+}
+
+#public-wrapper .sticky-nav .wedding-date,
+#public-wrapper .sticky-nav .wedding-location {
+  float: left;
+}
+
+#public-wrapper .sticky-nav .wedding-date {
+  margin-right: 25px;
+}
+
+#public-wrapper .sticky-nav .hashtag {
+  float: right;
+}
